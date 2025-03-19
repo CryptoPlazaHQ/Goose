@@ -213,13 +213,13 @@ Hay dos métodos para iniciar el controlador:
 
 **Modo Primer Plano**:
 ```powershell
-AskUI start controller
+AskUI-StartController
 ```
 Muestra logs directamente en la ventana de PowerShell.
 
 **Modo Segundo Plano**:
 ```powershell
-AskUI start controller -run in background
+AskUI-StartController -RunInBackground
 ```
 Inicia el controlador como servicio en segundo plano.
 
@@ -233,7 +233,7 @@ Con el entorno configurado, puedes crear tu primer proyecto AskUI.
 
 ```powershell
 # Desde el shell AskUI, en el directorio deseado:
-AskUI new project
+AskUI-NewProject -ProjectName Goose -TestFramework jest -TypeScriptConfig true
 
 # Cuando se te pregunte si deseas guardar el directorio en la ruta actual:
 # Escribe 'y' y presiona Enter
