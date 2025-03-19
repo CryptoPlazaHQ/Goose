@@ -204,7 +204,7 @@ cd ~
 AskUI settings -workspaceId "tu-workspace-id" -token "tu-access-token"
 
 # Verificar configuración
-AskUI show settings
+AskUI-ShowSettings
 ```
 
 ### 3. Iniciar el Controlador AskUI
