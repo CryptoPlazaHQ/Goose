@@ -262,8 +262,8 @@ tu-proyecto-askui/
 Las anotaciones te ayudan a visualizar los elementos detectados en tu pantalla:
 
 1. Abre la terminal integrada en VS Code con `Alt+U`
-2. Activa el shell AskUI con `AskUI shell`
-3. Ejecuta el proyecto con `AskUI run project`
+2. Activa el shell AskUI con `AskUI-Shell`
+3. Ejecuta el proyecto con `AskUI-RunProject`
 
 ![Ejemplo de Anotación](https://i.imgur.com/QTcA83n.png)
 
