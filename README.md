@@ -305,7 +305,7 @@ it('should click button 2', async () => {
 3. **Ejecutar el workflow**
 
 ```powershell
-AskUI run project
+AskUI-RunProject
 ```
 
 Inmediatamente después, cambia a la página de práctica - verás cómo el cursor se mueve y hace clic en el botón "2".
