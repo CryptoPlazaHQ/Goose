@@ -170,26 +170,8 @@ La evolución de un Operador GOOSE atraviesa puntos críticos que determinan su 
 4. **Punto Crítico D**: Superar 10 unidades GPU (Economías de escala)
 5. **Punto Crítico E**: Alcanzar $100K+ capital (Autofinanciamiento sostenible)
 
-## 7. MODELO DE MADURACIÓN OPERATIVA
 
-```mermaid
-quadrantChart
-    title Evolución del Operador GOOSE en el Tiempo
-    x-axis Capital Acumulado
-    y-axis Ingresos Mensuales
-    quadrant-1 "Alta Rentabilidad, Bajo Capital"
-    quadrant-2 "Alta Rentabilidad, Alto Capital"
-    quadrant-3 "Baja Rentabilidad, Bajo Capital"
-    quadrant-4 "Baja Rentabilidad, Alto Capital"
-    point Año1 [0.03, 0.05]
-    point Año2 [0.12, 0.15]
-    point Año3 [0.28, 0.24]
-    point Año4 [0.56, 0.36]
-    point Año5 [1.0, 0.51]
-
-```
-
-## 8. RECOMENDACIONES DE IMPLEMENTACIÓN
+## 7. RECOMENDACIONES DE IMPLEMENTACIÓN
 
 1. **Fase 1 (Año 1)**
    - Priorizar crecimiento de comunidad hasta 500 referidos
