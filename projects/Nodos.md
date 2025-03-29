@@ -186,6 +186,7 @@ quadrantChart
     point Año3 [0.28, 0.24]
     point Año4 [0.56, 0.36]
     point Año5 [1.0, 0.51]
+
 ```
 
 ## 8. RECOMENDACIONES DE IMPLEMENTACIÓN
