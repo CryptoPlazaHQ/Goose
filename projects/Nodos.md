@@ -177,10 +177,10 @@ quadrantChart
     title Evolución del Operador GOOSE en el Tiempo
     x-axis Capital Acumulado
     y-axis Ingresos Mensuales
-    quadrant-1 Alta Rentabilidad, Bajo Capital
-    quadrant-2 Alta Rentabilidad, Alto Capital
-    quadrant-3 Baja Rentabilidad, Bajo Capital
-    quadrant-4 Baja Rentabilidad, Alto Capital
+    quadrant-1 "Alta Rentabilidad, Bajo Capital"
+    quadrant-2 "Alta Rentabilidad, Alto Capital"
+    quadrant-3 "Baja Rentabilidad, Bajo Capital"
+    quadrant-4 "Baja Rentabilidad, Alto Capital"
     Año 1: [0.03, 0.05]
     Año 2: [0.12, 0.15]
     Año 3: [0.28, 0.24]
