@@ -181,11 +181,11 @@ quadrantChart
     quadrant-2 "Alta Rentabilidad, Alto Capital"
     quadrant-3 "Baja Rentabilidad, Bajo Capital"
     quadrant-4 "Baja Rentabilidad, Alto Capital"
-    Año 1: [0.03, 0.05]
-    Año 2: [0.12, 0.15]
-    Año 3: [0.28, 0.24]
-    Año 4: [0.56, 0.36]
-    Año 5: [1.0, 0.51]
+    point Año1 [0.03, 0.05]
+    point Año2 [0.12, 0.15]
+    point Año3 [0.28, 0.24]
+    point Año4 [0.56, 0.36]
+    point Año5 [1.0, 0.51]
 ```
 
 ## 8. RECOMENDACIONES DE IMPLEMENTACIÓN
